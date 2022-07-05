@@ -1,5 +1,3 @@
- <!-- <img src="https://user-images.githubusercontent.com/104655361/177195423-4109fdf6-f1bc-4c6f-8422-4af707d9113b.png" width="100%"/> -->
-
 <div align="center">
 <p>Oi, meu nome é Samuel e eu sou um desenvolvedor focado em <strong>front-end</strong>, essas são as linguagens e ferramentas que uso: 
 <p align="center"> 
@@ -14,11 +12,11 @@
 </p>
 <p>Minha meta pessoal é estudar concentrado todos os dias por cinco horas, ou seja, dez pomodoros, sempre que cumpro isso me sinto animado para o resto do dia. Manter essa rotina também faz eu alcançar resultados rápidos e continuar empolgado com o que estou estudando, caso queira me conhecer mais aqui estão minhas redes sociais:
 <p align="center"> 
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+<a href="https://www.instagram.com/tanukiguia/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discordapp.com/users/Tanuki#6778"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/553298172723"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561198407891253/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
 </p> <p>Ah e não estranhe se ver uns guaxinins por aí. Eles são meus animais favoritos porque são muito pragmáticos, come o que tiver e "nunca tem tempo ruim". E, embora eu só tenha visto eles por vídeo, acho hilário e me identifico com a aparência engraçada e o jeito deles
