@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/104655361/177195423-4109fdf6-f1bc-4c6f-8422-4af707d9113b.png" width="100%"/>
+ <!-- <img src="https://user-images.githubusercontent.com/104655361/177195423-4109fdf6-f1bc-4c6f-8422-4af707d9113b.png" width="100%"/> -->
 
-<h3 align="center">LINGUAGENS E FERRAMENTAS</h3>
+<div align="center">
+<p>Oi, meu nome é Samuel e eu sou um desenvolvedor focado em <strong>front-end</strong>, essas são as linguagens e ferramentas que uso: 
 <p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -11,10 +12,7 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-173d73?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </p>
-
-
-
-<h3 align="center">REDES SOCIAIS</h3>
+<p>Minha meta pessoal é estudar concentrado todos os dias por cinco horas, ou seja, dez pomodoros, sempre que cumpro isso me sinto animado para o resto do dia. Manter essa rotina também faz eu alcançar resultados rápidos e continuar empolgado com o que estou estudando, caso queira me conhecer mais aqui estão minhas redes sociais:
 <p align="center"> 
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
@@ -23,11 +21,11 @@
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
 </p>
 
+</p> <p>Ah e não estranhe se ver uns guaxinins por aí. Eles são meus animais favoritos porque são muito pragmáticos, come o que tiver e "nunca tem tempo ruim". E, embora eu só tenha visto eles por vídeo, acho hilário e me identifico com a aparência engraçada e o jeito deles
+</div>
 
 <div align="center">
-
-
-
-<img height="300" src="https://user-images.githubusercontent.com/104655361/177198984-72fb38eb-f14f-4627-bb17-748a99b1ff49.gif">
-
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Guaxininho&theme=dark&locale=pt-br&background=151515&ring=DEE2E6&currStreakLabel=F1E05A&sideNums=F1E05A&currStreakNum=F1E05A&fire=F1E05A&border=DEE2E6"/>
+  <img height="150em" src="https://user-images.githubusercontent.com/104655361/177260769-570d1921-5a5f-4760-915e-8c7de690ff86.gif"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaxininho&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
