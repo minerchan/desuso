@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Guaxininho&theme=dark&locale=pt-br&background=151515&ring=DEE2E6&currStreakLabel=F1E05A&sideNums=F1E05A&currStreakNum=F1E05A&fire=F1E05A&border=DEE2E6"/>
-  <img height="150em" src="https://user-images.githubusercontent.com/104655361/177260769-570d1921-5a5f-4760-915e-8c7de690ff86.gif"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaxininho&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+  <img height="120em" src="http://github-readme-streak-stats.herokuapp.com?user=Guaxininho&theme=dark&locale=pt-br&background=151515&ring=DEE2E6&currStreakLabel=F1E05A&sideNums=F1E05A&currStreakNum=F1E05A&fire=F1E05A&border=DEE2E6"/>
+  <img height="120em" src="https://user-images.githubusercontent.com/104655361/177260769-570d1921-5a5f-4760-915e-8c7de690ff86.gif"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaxininho&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
