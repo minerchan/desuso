@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-173d73?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </p>	
 
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 
 
 <p>Minha meta pessoal é estudar concentrado todos os dias no mínimo cinco horas, ou seja, dez pomodoros, sempre que cumpro isso me sinto animado para o resto do dia. Manter essa rotina também faz eu alcançar resultados rápidos e continuar empolgado com o que estou estudando, caso queira me conhecer mais aqui estão minhas redes sociais:
