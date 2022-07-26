@@ -13,7 +13,7 @@ Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia, que ama convers
   <li><a href="https://calculadoragx.netlify.app" target="blank">&#9881; Calculadora simples</a></li>
   <li><a href="https://curriculointerativo.netlify.app/" target="blank">&#128221; Currículo interativo</a></li>
 </ul>
-Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="https://github.com/Guaxininho/">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo e também o que pretendo aprender em breve, espero seu contato!
+Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="mailto:samuelcavalcantimg@gmail.com">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo e também o que pretendo aprender em breve, espero seu contato!
 <h3 align="left">Linguagens e ferramentas que já domino:</h3>
 <p align="left"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
