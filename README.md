@@ -13,7 +13,7 @@ Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia, que ama convers
   <li><a href="https://calculadoragx.netlify.app">&#9881; Calculadora simples</a></li>
   <li><a href="curriculointerativo.netlify.app/">&#128221; Currículo interativo</a></li>
 </ul>
-Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="https://github.com/Guaxininho/">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo, espero seu contato!
+Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="https://github.com/Guaxininho/">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo e também o que pretendo aprender em breve, espero seu contato!
 <h3 align="left">Linguagens e ferramentas que já domino:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -25,14 +25,16 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
-<h3 align="left">Linguagens e ferramentas que estou aprendendo:</h3>
-
-<img src="https://user-images.githubusercontent.com/104655361/180678551-5a59c32f-0204-4cd8-a2b9-95498d3cdb97.png" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-
-<h3 align="left">Idiomas que sou fluente ou tenho proficiência comprovada:</h3>
-
+<h3 align="left">Linguagens e ferramentas que estou aprendendo ou que planejo aprender em breve, já em ordem:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181124306-cd028564-e5b5-4beb-8070-bff712af193c.png" alt="nodejs" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181124733-1b4ac610-dfe5-4721-8b5c-66a43c717e3e.png" alt="react" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/104655361/181125265-58972781-2006-4602-92e3-82cce70d58db.png" alt="react" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/104655361/181126467-fb831394-5ef9-4078-86ce-c5e1460b9d94.png" alt="tailwind"40" height="40"/>
+</p>
+<h3 align="left">Idiomas que sou fluente ou tenho certa proficiência comprovada: </h3>
+<p align="left"> 
 <img src="https://user-images.githubusercontent.com/104655361/181121218-69f3e899-7121-49b4-b281-efdd0bde48d7.png" alt="brasil" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181121222-4373cf8f-a6b9-468a-8ba2-2525c1d47c88.png" alt="japao" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181121221-deaf5f06-7538-4b57-a524-3ff2d6dc69b5.png" alt="eua" width="40" height="40"/>
-
+</p>
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-cavalcanti-3a59a1239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel cavalcanti" height="30" width="40" /></a>
