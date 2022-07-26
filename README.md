@@ -16,7 +16,7 @@ Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia, que ama convers
 Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="https://github.com/Guaxininho/">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo e também o que pretendo aprender em breve, espero seu contato!
 <h3 align="left">Linguagens e ferramentas que já domino:</h3>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
