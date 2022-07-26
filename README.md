@@ -10,8 +10,8 @@
 
 Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia, que ama conversar. Sério, eu falo muito. Se quiser saber do que sou capaz você pode conferir meus projetos aqui mesmo no github, eles estão nos repositórios em destaque, lá tem uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
 <ul>
-  <li><a href="https://calculadoragx.netlify.app">&#9881; Calculadora simples</a></li>
-  <li><a href="https://curriculointerativo.netlify.app/">&#128221; Currículo interativo</a></li>
+  <li><a href="https://calculadoragx.netlify.app"  target="blank">&#9881; Calculadora simples</a></li>
+  <li><a href="https://curriculointerativo.netlify.app/"  target="blank">&#128221; Currículo interativo</a></li>
 </ul>
 Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes sociais ou me enviar e-mail aqui: <a href="https://github.com/Guaxininho/">samuelcavalcantimg@gmail.com</a>. Atualmente estou procurando minha primeira vaga como desenvolvedor júnior, mas todo tipo de contato para projetos é bem vindo. Vou deixar atualizado aqui o que já dominei e o que estou aprendendo e também o que pretendo aprender em breve, espero seu contato!
 <h3 align="left">Linguagens e ferramentas que já domino:</h3>
