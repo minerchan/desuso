@@ -44,5 +44,5 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Guaxininho)
+<!-- ![](https://komarev.com/ghpvc/?username=Guaxininho) -->
 
