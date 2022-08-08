@@ -28,7 +28,7 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 
 <h3 align="left">Linguagens e ferramentas que estou aprendendo ou que planejo aprender em breve, já em ordem:</h3>
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/104655361/181124306-cd028564-e5b5-4beb-8070-bff712af193c.png" alt="nodejs" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181124733-1b4ac610-dfe5-4721-8b5c-66a43c717e3e.png" alt="react" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/104655361/181124733-1b4ac610-dfe5-4721-8b5c-66a43c717e3e.png" alt="react" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/104655361/181125265-58972781-2006-4602-92e3-82cce70d58db.png" alt="react" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/104655361/181126467-fb831394-5ef9-4078-86ce-c5e1460b9d94.png" alt="tailwind"40" height="40"/>
 </p>
