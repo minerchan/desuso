@@ -23,7 +23,7 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/104655361/183552478-cd21c79d-f174-48f6-adb1-b74714806ba6.png" alt="sass" width="40" height="40"/>
 </p>
 
 <h3 align="left">Linguagens e ferramentas que estou aprendendo ou que planejo aprender em breve, já em ordem:</h3>
@@ -42,7 +42,8 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 <a href="https://www.instagram.com/tanukiguia/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104655361/181123416-b7f29969-7b1f-4744-b134-775cd9a39346.png" alt="samuel cavalcanti" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5532998172723" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104655361/181128239-bf9d6f5f-b278-4586-8e1f-36c2c80c1d67.png" alt="samuel cavalcanti" height="30" width="40" /></a>
 
-</p>
+</p>!
+
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=Guaxininho) -->
