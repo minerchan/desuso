@@ -42,7 +42,7 @@ Se quiser entrar em contato pode me enviar mensagem em alguma das minhas redes s
 <a href="https://www.instagram.com/tanukiguia/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104655361/181123416-b7f29969-7b1f-4744-b134-775cd9a39346.png" alt="samuel cavalcanti" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5532998172723" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104655361/181128239-bf9d6f5f-b278-4586-8e1f-36c2c80c1d67.png" alt="samuel cavalcanti" height="30" width="40" /></a>
 
-</p>!
+</p>
 
 
 
