@@ -8,37 +8,21 @@
 
 
 
-Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia. Se quiser saber do que sou capaz você pode conferir meus projetos aqui mesmo no github, em cada um tem uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
+Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia. Estou todos os dias aprendendo algo novo em programação e costumo deixar registrado nos meus repositórios uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
 <ul>
   <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">&#9881; Calculadora simples</a></li>
   <li><a href="https://curriculointerativo.netlify.app/" target="blank">&#128221; Currículo interativo</a></li>
 </ul>
+Se quiser conferir meu currículo pode olhar pelo <a href="https://curriculosamuelgx.netlify.app/">site</a> ou baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9440273/Curriculo.Samuel.Cavalcanti.-.R.pdf" download>PDF</a><br>
 Se quiser entrar em contato pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>.
-<h3 align="left">Linguagens e ferramentas que já utilizo:</h3>
+<h3 align="left">Estas são as linguagens e ferramentas que utilizo:</h3>
 <p align="left"> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/104655361/183552478-cd21c79d-f174-48f6-adb1-b74714806ba6.png" alt="sass" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/104655361/181124733-1b4ac610-dfe5-4721-8b5c-66a43c717e3e.png" alt="react" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/104655361/187089537-e1a1d643-02f7-4073-a45c-e38f5fc43f57.png" alt="html5"/></a> 
+<img src="https://user-images.githubusercontent.com/104655361/187089706-059f2c2c-d49d-4eea-8a0c-5043e16479b6.png" alt="css3"/>
+<img src="https://user-images.githubusercontent.com/104655361/187089830-4fedce58-93a4-45b5-b34c-5b401c9a3987.png" alt="sass"/>
+<img src="https://user-images.githubusercontent.com/104655361/187090368-34f8cf79-379d-4548-a999-b946b6cc97ac.png" alt="javascript"/>
+<img src="https://user-images.githubusercontent.com/104655361/187090576-dff33335-1c25-4b8d-b923-64d8a5905471.png" alt="react"/>
+<img src="https://user-images.githubusercontent.com/104655361/187090270-89a580a6-77a8-4eac-b86b-d426028b3a70.png" alt="git"/>
+<img src="https://user-images.githubusercontent.com/104655361/187090700-2102a323-b619-4fe1-98ac-5ca4fa10e58b.png" alt="photoshop" width="40" height="40"/>
 </p>
-
-<h3 align="left">Idiomas que sou fluente ou tenho certa proficiência comprovada: </h3>
-<p align="left"> 
-<img src="https://user-images.githubusercontent.com/104655361/181121218-69f3e899-7121-49b4-b281-efdd0bde48d7.png" alt="brasil" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181121222-4373cf8f-a6b9-468a-8ba2-2525c1d47c88.png" alt="japao" width="40" height="40"/><img src="https://user-images.githubusercontent.com/104655361/181121221-deaf5f06-7538-4b57-a524-3ff2d6dc69b5.png" alt="eua" width="40" height="40"/>
-</p>
-<h3 align="left">Minhas redes sociais:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-cavalcanti-3a59a1239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel cavalcanti" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=5532998172723" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104655361/181128239-bf9d6f5f-b278-4586-8e1f-36c2c80c1d67.png" alt="samuel cavalcanti" height="30" width="40" /></a>
-
-</p>
-
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=Guaxininho) -->
 
