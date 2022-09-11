@@ -10,8 +10,9 @@
 
 Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia. Estou todos os dias aprendendo algo novo em programação e costumo deixar registrado nos meus repositórios uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
 <ul>
-  <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">Calculadora simples</a></li>
-  <li><a href="https://curriculointerativo.netlify.app/" target="blank">Currículo interativo</a></li>
+  <li><a href="https://pokedexgx.netlify.app/" target="blank">Pokedex 1º Geração (REACT + API)</a></li>
+  <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">Calculadora simples (Javascript baunilha)</a></li>
+  <li><a href="https://curriculointerativo.netlify.app/" target="blank">Currículo interativo (Javascript baunilha)</a></li>
 </ul>
 Se quiser conferir meu currículo pode olhar pelo <a href="https://curriculosamuelgx.netlify.app/">site</a> ou baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9440273/Curriculo.Samuel.Cavalcanti.-.R.pdf" download>PDF</a><br>
 Se quiser entrar em contato pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>.
