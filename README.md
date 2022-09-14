@@ -10,6 +10,7 @@
 
 Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia. Estou todos os dias aprendendo algo novo em programação e costumo deixar registrado nos meus repositórios uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
 <ul>
+  <li><a href="https://pokexbase.netlify.app/offtank.html">PokexBase (projeto em andamento em Javascript e SASS)</a></li>
   <li><a href="https://pokedexgx.netlify.app/" target="blank">Pokedex 1º Geração (REACT + API)</a></li>
   <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">Calculadora simples (Javascript baunilha)</a></li>
   <li><a href="https://curriculointerativo.netlify.app/" target="blank">Currículo interativo (Javascript baunilha)</a></li>
