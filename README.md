@@ -2,13 +2,14 @@
 <h1 align="center">Oi, meu nome é Samuel &#129437;</h1>
 <h3 align="center">Desenvolvedor júnior front-end</h3>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/104655361/177260769-570d1921-5a5f-4760-915e-8c7de690ff86.gif"/>
-<br>
+
+<h2>Experiências</h2>
+<ul>
+<li>Front-end na atualização do <a href="http://www.edelbra.com.br/catalogo2022/">catálogo 2022 Edelbra</a></li>
+</ul>
 
 
-
-
-
-Tenho 27 anos e sou uma pessoa apaixonada por arte e tecnologia. Estou todos os dias aprendendo algo novo em programação e costumo deixar registrado nos meus repositórios uma descrição detalhada do que aprendi e porque decidi fazer o que fiz, mas se você quiser ver só o funcionamento vou deixar aqui o site de cada um para você conferir:  
+<h2>Portfólio</h2>
 <ul>
   <li><a href="https://pokexbase.netlify.app/offtank.html">PokexBase (projeto em andamento em Javascript e SASS)</a></li>
   <li><a href="https://pokedexgx.netlify.app/" target="blank">Pokedex 1º Geração (REACT + API)</a></li>
