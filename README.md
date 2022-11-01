@@ -16,7 +16,7 @@
   <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">Calculadora simples (Javascript baunilha)</a></li>
   <li><a href="https://curriculointerativo.netlify.app/" target="blank">Currículo interativo (Javascript baunilha)</a></li>
 </ul>
-Se quiser conferir meu currículo pode olhar pelo <a href="https://curriculosamuelgx.netlify.app/">site</a> ou baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9440273/Curriculo.Samuel.Cavalcanti.-.R.pdf" download>PDF</a><br>
+Se quiser conferir meu currículo pode olhar pelo <a href="https://curriculosc.netlify.app/">site</a> ou baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9912421/Samuel.Cavalcanti.-.Curriculo.pdf" download>PDF</a><br>
 Se quiser entrar em contato pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>.
 <h3 align="left">Estas são as linguagens e ferramentas que utilizo:</h3>
 <p align="left"> 
