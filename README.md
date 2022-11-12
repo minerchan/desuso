@@ -7,14 +7,6 @@
 <li>Front-end na atualização do <a href="http://www.edelbra.com.br/catalogo2022/">catálogo 2022 Edelbra</a></li>
 </ul>
 
-<h2>Portfólio</h2>
-<ul>
-  <li><a href="https://pokexbase.netlify.app/offtank.html">PokexBase (projeto em andamento em Javascript e SASS)</a></li>
-  <li><a href="https://pokedexgx.netlify.app/" target="blank">Pokedex 1º Geração (REACT + API)</a></li>
-  <li><a href="https://calculadorasimplesgx.netlify.app/" target="blank">Calculadora simples (Javascript e CSS)</a></li>
-  <li><a href="https://curriculointerativo.netlify.app/" target="blank">Currículo interativo (Javascript e CSS)</a></li>
-</ul>
-
 <h2>Contato</h2>
 <p>Essas são minhas redes sociais:</p>
 
