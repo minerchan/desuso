@@ -4,7 +4,7 @@
 <img align="right" width="320" src="https://user-images.githubusercontent.com/104655361/177260769-570d1921-5a5f-4760-915e-8c7de690ff86.gif"/>
 <h2>Experiências</h2>
 <ul>
-<li>Front-end na atualização do catálogo de livros da livraria Edelbra de set a out de 2022</a></li>
+<li><a href="https://siteref.netlify.app/">Atualização do catálogo de livros da Edelbra de set a out de 2022</a></li>
 </ul>
 
 <h2>Contato</h2>
