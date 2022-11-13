@@ -9,13 +9,13 @@
 
 <h2>Contato</h2>
 <div algin="left">
-  <p>Se quiser conferir meu currículo pode baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9912421/Samuel.Cavalcanti.-.Curriculo.pdf" download>PDF</a> ou olhar pelo <a href="https://curriculosc.netlify.app/">site</a>, mas se quiser entrar em contato comigo pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>. Também pode me encontrar por essas redes sociais:</p>
+  <p>Se quiser conferir meu currículo pode baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/9912421/Samuel.Cavalcanti.-.Curriculo.pdf" download>PDF</a>, mas se quiser entrar em contato comigo pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>. Para assuntos mais informais pode me chamar em uma das minhas redes sociais:</p>
   <img src="https://user-images.githubusercontent.com/104655361/201483227-99cba522-410e-40fb-abd3-071e38165efc.png" alt="instagram">
   <img src="https://user-images.githubusercontent.com/104655361/201483355-133319c6-10c3-469f-9086-e4d9b148935f.png" alt="linkedin">
   <img src="https://user-images.githubusercontent.com/104655361/201483626-2bb22055-c770-4513-ac36-4b00f67e4027.png" alt="whatsapp">
 </div>
 
-<h2 align="left">Estas são as linguagens e ferramentas que utilizo:</h2>
+<h2 align="left">Estas são as linguagens e ferramentas que utilizo no momento:</h2>
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/104655361/187089537-e1a1d643-02f7-4073-a45c-e38f5fc43f57.png" alt="html5"/>
 <img src="https://user-images.githubusercontent.com/104655361/187089706-059f2c2c-d49d-4eea-8a0c-5043e16479b6.png" alt="css3"/>
