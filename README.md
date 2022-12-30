@@ -9,7 +9,7 @@
 
 <h2>Contato</h2>
 <div algin="left">
-  <p>Se quiser conferir meu currículo pode baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/10281543/Samuel%2BCavalcanti.1.pdf" download>PDF</a>, mas se quiser entrar em contato comigo pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>. Para assuntos mais informais pode me chamar em uma das minhas redes sociais:</p>
+  <p>Se quiser conferir meu currículo pode baixar o <a href="https://github.com/Guaxininho/Guaxininho/files/10324325/Curriculo.-.Samuel.Cavalcanti.pdf" download>PDF</a>, mas se quiser entrar em contato comigo pode me enviar e-mail <a href="mailto: samuelcavalcantimg@gmail.com">aqui</a>. Para assuntos mais informais pode me chamar em uma das minhas redes sociais:</p>
   <a href="https://www.linkedin.com/in/samuel-cavalcanti-rodrigues/"><img src="https://user-images.githubusercontent.com/104655361/201483355-133319c6-10c3-469f-9086-e4d9b148935f.png" alt="linkedin"></a>
   <a href="https://api.whatsapp.com/send?phone=5532998172723"><img src="https://user-images.githubusercontent.com/104655361/201483626-2bb22055-c770-4513-ac36-4b00f67e4027.png" alt="whatsapp"></a>
 </div>
