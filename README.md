@@ -1,6 +1,6 @@
 
 <div align="justify">
-<p>Oi, meu nome é Samuel e eu não sou fã de termos no mundo da programação, portanto não vou me definir em um. Programo para criar e automatizar coisas que me despertam interesse e por consequência estou sempre aprendendo coisas novas. Caso queira conferir o que já fiz, é possível ver na parte de portfólio do meu <a href="https://registosc.vercel.app/portfolio">site pessoal</a></p>
+<p>Oi, meu nome é Samuel e eu não sou fã de termos no mundo da programação, portanto não vou me definir em um. Programo para criar e automatizar coisas que me despertam interesse e por consequência estou sempre aprendendo coisas novas. Hoje em dia trabalho com front-end, mas procuro sempre fazer o que a empresa precisa, muitas vezes crio ferramentas em forma de site e automazações de coisas repetitivas também.
   
 <h2>Atualmente eu programo usando:</h2>
   <a href='https://github.com/Guaxininho'><img width=500px src='https://github-readme-stats.vercel.app/api/top-langs/?username=Guaxininho&layout=compact&hide_progress=true&hide_title=True&langs_count=6&theme=transparent&hide_border=True&text_color=66A3D9'/></a>
