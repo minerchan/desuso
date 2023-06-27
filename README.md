@@ -15,10 +15,9 @@
   </div>
   
 <h2>Contato</h2>
-  <p>Se quiser conferir meu currículo pode fazer o download do <a href="https://github.com/Guaxininho/Guaxininho/files/11585173/Samuel.Cavalcanti.-.Fullstack.pdf" download>PDF</a>, mas se quiser entrar em contato comigo pode me enviar um <a href="mailto: samuelcavalcantimg@gmail.com">e-mail</a>.</p>
+  <p>Se quiser conferir meu currículo pode fazer o download do <a href="https://github.com/Guaxininho/Guaxininho/files/11876507/Curriculo%2BSamuel%2BCavalcanti%2BRodrigues%2B-%2BFullstack.2.pdf" download>PDF</a>, mas se quiser entrar em contato comigo pode me enviar um <a href="mailto: samuelcavalcantimg@gmail.com">e-mail</a>.</p>
     <p>Para assuntos mais informais pode me chamar no <a href="https://api.whatsapp.com/send?phone=5532999383387">Whatsapp</a></p>
   
 </div>
-
 
 
