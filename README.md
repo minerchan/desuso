@@ -1,8 +1,7 @@
 
 <div align="justify">
-<p>Oi, meu nome é Samuel e eu não sou fã de termos no mundo da programação, portanto não vou me definir em um. Programo para criar e automatizar coisas que me despertam interesse e por consequência estou sempre aprendendo coisas novas. Hoje em dia trabalho com front-end em meio período, mas estou em busca de mais trabalho para viver somente de programação.
-  
-<h2>Atualmente eu programo usando:</h2>
+<p>Oi, meu nome é Samuel e eu não sou fã de termos no mundo da programação. Programo e aprendo o que preciso quando preciso e eu sempre preciso, é isso.
+<h2>Atualmente tenho certo domino em:</h2>
   <div>
     <a href="#"><img src="https://user-images.githubusercontent.com/104655361/233168228-8967edc0-684a-48d5-98cc-14c27352980d.png"/></a>
     <a href="#"><img src="https://user-images.githubusercontent.com/104655361/233167102-cac1e4b4-d18a-4b2d-b7f8-79572897ad87.png"/></a>
