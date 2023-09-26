@@ -9,7 +9,7 @@
     <a href="#"><img src="https://user-images.githubusercontent.com/104655361/233165698-2bc87014-202f-47a2-98b8-421b3374b9dd.png"/></a>
     <a href="#"><img src="https://user-images.githubusercontent.com/104655361/233163881-5bb129be-8e58-4a51-b550-555c50f7754c.png"/></a>
     <a href="#"><img src="https://github.com/Guaxininho/Codecraft/blob/8e33c3f915f1bca32e994d8ecfe4933469f80f21/Imagens/nse.png"/></a>
-        <a href="#"><img src="https://github.com/Guaxininho/Guaxininho/assets/104655361/2f3e284c-df55-41db-a155-c086d10be930"/></a>
+    <!--     <a href="#"><img src="https://github.com/Guaxininho/Guaxininho/assets/104655361/2f3e284c-df55-41db-a155-c086d10be930"/></a> -->
     <a href="#"><img src="https://user-images.githubusercontent.com/104655361/233164487-2360d6b5-0dff-49d4-ac8a-8c653a7c303f.png"/></a>
 
   </div>
